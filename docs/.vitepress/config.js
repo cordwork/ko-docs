@@ -1,6 +1,6 @@
 const ogDescription = '아름다운 디스코드 봇 프레임워크'
 const ogImage = 'https://ko.cordwork.dev/og-image.png'
-const ogTitle = 'Vite'
+const ogTitle = 'CordWork'
 const ogUrl = 'https://ko.cordwork.dev'
 
 export default {
