@@ -5,7 +5,7 @@ export default {
 	themeConfig: {
 		logo: '/logo.png',
 		nav: [
-			{ text: '사용법', link: '/guide' },
+			{ text: '사용법', link: '/guide/' },
 		],
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/cordwork/core' },
@@ -14,7 +14,7 @@ export default {
 			{
 				text: '소개',
 				items: [
-					{ text: 'CordWork가 뭔가요?', link: '/guide' },
+					{ text: 'CordWork가 뭔가요?', link: '/guide/' },
 					{ text: '시작하기', link: '/guide/getting-started' },
 				],
 			}
