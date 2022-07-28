@@ -1,7 +1,7 @@
 # 시작하기
 
 해당 문서에선 CordWork를 사용하여 프로젝트를 만들고 봇의 명령까지 추가하는 법을 설명합니다.
-CordWork 앱의 기본 구성 요소를 익히기 위해, 가장 간단한 `ping - ping` 명령어를 만들 것입니다.
+CordWork 앱의 기본 구성 요소를 익히기 위해, 가장 간단한 `ping - ping` 명령어가 동작되도록 할 것입니다.
 
 ::: warning
 CordWork는 아직 **개발 단계** 를 거치고 있습니다. 사용하는 데에 문제는 없지만, 계속되는 배포 과정에서 사용 방법이 변경될 수 있습니다.
@@ -28,7 +28,7 @@ $ npm install
 ```
 src
 ├── app.module.ts
-├── controllers
+├── commands
 │   └── ping.command.ts
 └── main.ts
 ```
