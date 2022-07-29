@@ -31,6 +31,12 @@ export default {
 					{ text: '상호작용', link: '/guide/interaction' },
 				],
 			},
+			{
+				text: '기본 사항',
+				items: [
+					{ text: '의존성 주입', link: '/guide/dependency-injection' },
+				],
+			},
 		],
 	},
 
