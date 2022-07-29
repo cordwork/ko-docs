@@ -6,7 +6,7 @@ const ogUrl = 'https://cordwork.github.io/ko-docs/'
 export default {
 	title: 'CordWork',
 	description: '아름다운 디스코드 봇 프레임워크',
-	base: '/ko-docs/',
+	// base: '/ko-docs/',
 	themeConfig: {
 		logo: '/logo.png',
 		nav: [
